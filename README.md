@@ -7,8 +7,9 @@
 + The indent of this project is to exploring the data from Reddit, web scrape its most trend article or topic from Colorado subreddit as the test dataset, discover insights through discussions of the topic(classify possitive and negative comments).
 
 # About the Dataset
-+ Source: Kaggle
++ Training dataset: Kaggle
 + [Link for the dataset](https://www.kaggle.com/datasets/cosmos98/twitter-and-reddit-sentimental-analysis-dataset?resource=download "Dataset")
++ Testing dataset: Web Scrapping from reddit
 
 # Potential packages
 + Pandas
