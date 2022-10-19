@@ -4,7 +4,7 @@
 
 # About this Sentiment Analysis
 + Reddit is a social media platform, consist of various communities and their members can share and discuss nearly eveything on communities.
-+ The indent of this project is to exploring the data from Reddit, web scrape its most trend article or topic from Colorado subreddit as the test dataset, discover insights through discussions of the topic(classify possitive and negative comments).
++ The indent of this project is to exploring the data from Reddit, web scrape its most trend article or topic from subreddit that is intereted as the test dataset, discover insights through discussions of the topic(classify possitive and negative comments).
 
 # About the Dataset
 + Training dataset: Kaggle
